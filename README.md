@@ -9,3 +9,5 @@ I'm mobile app developer using Android and iOS 👩🏻‍💻 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
 ![min-kyoung's github stats](https://github-readme-stats.vercel.app/api?username=min-kyoung&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com)
